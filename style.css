@@ -1,0 +1,17 @@
+body {
+    background-color: #ccffff;
+    font-family: 'Comic Sans MS', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+img {
+    border: 5px dashed orange;
+    margin: 10px;
+}
+
+table {
+    margin: auto;
+    background-color: #ffffcc;
+}
